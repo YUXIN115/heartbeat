@@ -1,0 +1,14 @@
+[README.md](https://github.com/user-attachments/files/26201948/README.md)
+# 🚁 无人机通信"心跳"监测可视化系统
+## 项目介绍
+本项目是《无人机智能化应用2451》课程分组作业2，基于Python+Streamlit实现无人机通信"心跳"包的模拟、掉线检测与可视化，可直接部署到Streamlit Cloud。
+
+## 功能特性
+- ✅ 每秒模拟发送无人机心跳包（含序号+时间戳，严格符合作业要求）
+- ✅ 3秒未收到心跳自动判定超时掉线，实时统计掉线次数
+- ✅ Streamlit网页可视化：折线图展示心跳序号时间变化，红色标记掉线时刻
+- ✅ 实时状态面板、原始数据表格、一键启动/停止/重置
+- ✅ 支持本地运行+Streamlit Cloud云端部署
+- ✅ 完整配套文件：`requirements.txt` + `README.md`
+
+## 项目结构
