@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26201948/README.md)
 # 🚁 无人机通信"心跳"监测可视化系统
 ## 项目介绍
 本项目是《无人机智能化应用2451》课程分组作业2，基于Python+Streamlit实现无人机通信"心跳"包的模拟、掉线检测与可视化，可直接部署到Streamlit Cloud。
